@@ -17,5 +17,5 @@ A lightweight JavaScript library for replacing the original javascript `alert();
 
 The photo below was taken on 1/6/19, and may be inaccurate.
 
-![alt text](https://i.imgur.com/Iq8Mhgn.png)
+![alt text](https://imgur.com/Jxg7REM.png)
 
