@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Thasadith');
 
 html, body {
+    font-family: 'Thasadith', sans-serif;
     height: 100%;
     text-align: center;
 }
@@ -23,7 +24,9 @@ canvas {
 }
 
 a {
+    font-family: 'Thasadith', sans-serif;
     text-decoration: none;
+    font-weight: bold;
     color: #fff;
     text-transform: uppercase;
     font-size: 35px;
@@ -70,4 +73,23 @@ h1 copyright {
     color: #fff;
     opacity: 0.2;
     font-size: 15px;
+}
+h1 extraSmallText {
+    display: block;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 18px;
+}
+
+.github_button {
+    font-family: 'Thasadith', sans-serif;
+    position: fixed;
+    bottom: -2px;
+    right: 8px;
+}
+
+.github_button img {
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
 }
